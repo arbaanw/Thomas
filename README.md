@@ -5,4 +5,4 @@ Thomas is simple.
 Thomas.
 
 here's a vid demo:
-![demo video](./assets/thomas.mp4)
+![demo video](./assets/thomas.gif)
